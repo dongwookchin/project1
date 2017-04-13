@@ -4,7 +4,7 @@ pageEncoding="UTF-8"%>
 <html>
 <head>
 
-<title>** Login Info_Spring & Mybatis MVC version2**</title>
+<title>** Login Info_Spring & Mybatis MVC ver3 **</title>
 </head>
 <body align=center style=color:gray bgcolor=black>
 
